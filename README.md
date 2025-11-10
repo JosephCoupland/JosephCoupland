@@ -1,5 +1,5 @@
 <h1 align="center">Salutations, I'm Joseph Coupland</h1>
-<h3 align="center">Computer Games Development Graduate Information System Specialist (CRM) for Sheffield City Council.</h3>
+<h3 align="center">Computer Games Development Graduate, First-Class Honours, and Information System Specialist (CRM) for Sheffield City Council.</h3>
 
 
 
